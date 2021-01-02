@@ -1,4 +1,4 @@
-# Student Portfolio
+# My Portfolio
 Hey! welcome to my portfolio.
 
 I am Arshiya. 
